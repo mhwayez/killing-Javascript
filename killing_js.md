@@ -65,7 +65,7 @@ Zero to Hero ~ The Ultimate Javascript Guideline
 2. var
 3. let
 
-####1. const এর ব্যবহার 
+#### 1. const এর ব্যবহার 
 - **Cannot be reassigned and not accessible before they appear within the code.** 
 - **Variables defined with let must be Declared before use**
 
@@ -80,6 +80,28 @@ PI = PI + 10;   // This will also give an error
 ```
 Variables defined with const have Block Scope.
 
-####2. var এর ব্যবহার
+#### 2. var এর ব্যবহার ####
 The most common variable. Can be reassigned but only accessed within a function. Variables defined with var move to the top when code is executed.
---------------------------
+
+
+-------------------------- 
+
+#### 3. let এর ব্যবহার ####
+----------------------
+
+# 
+| ডাটা টাইপ  | উদাহরণ                                   |
+|------------|------------------------------------------|
+| Number     | var x = 100;                             |
+| String     | var x = “100”;                           |
+| Boolean    | var x = true;                            |
+| null       | var x = null;                            |
+| Object     | var x = { name:  "mahadi", age:  "28" };|
+| Undefined  |                                          |
+| Array      |var fruit = ["Banana", "Apple", "Pear"];  |
+|            |                                          |
+
+
+-------------------------- 
+
+
