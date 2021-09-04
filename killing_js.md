@@ -79,3 +79,7 @@ PI = 3.14;      // This will give an error
 PI = PI + 10;   // This will also give an error
 ```
 Variables defined with const have Block Scope.
+
+####2. var এর ব্যবহার
+The most common variable. Can be reassigned but only accessed within a function. Variables defined with var move to the top when code is executed.
+--------------------------
