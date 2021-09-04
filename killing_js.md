@@ -31,3 +31,10 @@ Zero to Hero ~ The Ultimate Javascript Guideline
 <script src="myscript.js"></script>
 ```
 
+এখানে myscript.js এর লোকেশন ইচ্ছামত দিয়ে দেওয়া যাবে। 
+
+এভাবে জাভাস্ক্রিপ্ট যুক্ত করার সুবিধা হচ্ছে 
+
+-কোড মেইনটেইন করা সহজ হয়
+- HTML এবং Javascript আলাদা থাকায়, এরর খুঁজে বের করতে সহজ হয়
+- Javascript ক্যাশড হয়ে থাকলে, পেজের লোডিং স্পীড বেড়ে যায় 
