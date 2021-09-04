@@ -54,7 +54,7 @@ Zero to Hero ~ The Ultimate Javascript Guideline
 - Javascript ক্যাশড হয়ে থাকলে, পেজের লোডিং স্পীড বেড়ে যায় 
 
 
-##জাভাস্ক্রিপ্টে দুইভাবে কমেন্ট দেওয়া যায়##
+## জাভাস্ক্রিপ্টে দুইভাবে কমেন্ট দেওয়া যায়
 
 - // Single Line Comment
 - /* Multiple Line Comment */
