@@ -59,3 +59,11 @@ Zero to Hero ~ The Ultimate Javascript Guideline
 - // Single Line Comment
 - /* Multiple Line Comment */
 
+## জাভাস্ক্রিপ্টে তিনভাবে ভ্যারিয়েবল ডিক্লেয়ার করা যায় 
+
+1. const
+2. var
+3. let
+
+##### const এর ব্যবহার 
+
