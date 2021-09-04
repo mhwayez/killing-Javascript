@@ -37,7 +37,7 @@ Zero to Hero ~ The Ultimate Javascript Guideline
 ```javascript
 <script src="https://www.w3schools.com/js/myScript.js"></script>
 ```
-2. With a file path (like /js/)
+2. With a file path (like  /js/ )
 ```javascript
 <script src="/js/myScript.js"></script>
 ```
@@ -52,3 +52,10 @@ Zero to Hero ~ The Ultimate Javascript Guideline
 -কোড মেইনটেইন করা সহজ হয়
 - HTML এবং Javascript আলাদা থাকায়, এরর খুঁজে বের করতে সহজ হয়
 - Javascript ক্যাশড হয়ে থাকলে, পেজের লোডিং স্পীড বেড়ে যায় 
+
+
+##জাভাস্ক্রিপ্টে দুইভাবে কমেন্ট দেওয়া যায় 
+
+- // Single Line Comment
+- /* Multiple Line Comment */
+
