@@ -56,8 +56,8 @@ Zero to Hero ~ The Ultimate Javascript Guideline
 
 ## জাভাস্ক্রিপ্টে দুইভাবে কমেন্ট দেওয়া যায়
 
-- // Single Line Comment
-- /* Multiple Line Comment */
+>- // Single Line Comment
+>- /* Multiple Line Comment */
 
 ## জাভাস্ক্রিপ্টে তিনভাবে ভ্যারিয়েবল ডিক্লেয়ার করা যায় 
 
