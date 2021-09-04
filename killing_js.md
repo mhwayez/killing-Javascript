@@ -31,7 +31,21 @@ Zero to Hero ~ The Ultimate Javascript Guideline
 <script src="myscript.js"></script>
 ```
 
-এখানে myscript.js এর লোকেশন ইচ্ছামত দিয়ে দেওয়া যাবে। 
+এখানে myscript.js এর লোকেশন ইচ্ছামত দিয়ে দেওয়া যাবে। এক্সটার্নালি Javascript ফাইল তিনভাবে যুক্ত করা যায়
+
+1. With a full URL (a full web address)
+```javascript
+<script src="https://www.w3schools.com/js/myScript.js"></script>
+```
+2. With a file path (like /js/)
+```javascript
+<script src="/js/myScript.js"></script>
+```
+3. Without any path
+
+```javascript
+<script src="myscript.js"></script>
+```
 
 এভাবে জাভাস্ক্রিপ্ট যুক্ত করার সুবিধা হচ্ছে 
 
