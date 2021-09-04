@@ -27,4 +27,7 @@ Zero to Hero ~ The Ultimate Javascript Guideline
 
 **2. External জাভাস্ক্রিপ্ট ফাইলের মাধ্যমে**
 
+```javascript
+<script src="myscript.js"></script>
+```
 
