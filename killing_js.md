@@ -69,3 +69,13 @@ Zero to Hero ~ The Ultimate Javascript Guideline
 - **Cannot be reassigned and not accessible before they appear within the code.** 
 - **Variables defined with let must be Declared before use**
 
+
+Variables defined with const cannot be Redeclared.
+
+Variables defined with const cannot be Reassigned.
+```javascript
+const PI = 3.141592653589793;
+PI = 3.14;      // This will give an error
+PI = PI + 10;   // This will also give an error
+```
+Variables defined with const have Block Scope.
