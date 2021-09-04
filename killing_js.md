@@ -65,6 +65,7 @@ Zero to Hero ~ The Ultimate Javascript Guideline
 2. var
 3. let
 
-##### const এর ব্যবহার 
-
+#### const এর ব্যবহার 
+- **Cannot be reassigned and not accessible before they appear within the code.** 
+- **Variables defined with let must be Declared before use**
 
