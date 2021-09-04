@@ -11,7 +11,7 @@ Zero to Hero ~ The Ultimate Javascript Guideline
 
 কোডে দুইভাবে জাভাস্ক্রিপ্ট যুক্ত করা যায় যথা - 
 
-1. **HTML পেজের মধ্যেই Script ট্যাগ দিয়ে যুক্ত করা যায়।**
+**1. HTML পেজের মধ্যেই Script ট্যাগ দিয়ে যুক্ত করা যায়।**
 ```javascript
 <script type="text/javascript">
 
@@ -24,5 +24,7 @@ Zero to Hero ~ The Ultimate Javascript Guideline
 
 -এভাবে যুক্ত করার অসুবিধা হচ্ছে - কোড দেখতে এবং মেইনটেইন করতে অনেক প্যারা খেতে হয়। তবে ছোট-খাটো স্ক্রিপ্ট হলে, HTML ফাইলের মধ্যেই লিখে ফেলা ভাল। 
 
+
+**2. External জাভাস্ক্রিপ্ট ফাইলের মাধ্যমে**
 
 
